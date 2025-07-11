@@ -2,7 +2,7 @@ package challenge4;
 
 import java.util.Scanner;
 
-public class Input {
+public class input {
 
     public static void main(String[] args) {
 
