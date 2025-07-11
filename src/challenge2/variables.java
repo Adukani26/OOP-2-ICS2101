@@ -1,6 +1,6 @@
 package challenge2;
 
-public class Variables {
+public class variables {
 
     void showInterest(){
         double amount;
@@ -19,6 +19,6 @@ public class Variables {
 
     }
     public static void main(String[] args) {
-        new Variables().showInterest();
+        new variables().showInterest();
     }
 }
