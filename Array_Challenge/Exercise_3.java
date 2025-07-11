@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class Exercise3 {
+public class Exercise_3 {
 
     public static void main (String[] args) {
 
