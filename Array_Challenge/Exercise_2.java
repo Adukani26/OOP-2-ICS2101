@@ -2,7 +2,7 @@ package Array_Challenge;
 
 import java.util.Random;
 
-public class Exercise2 {
+public class Exercise_2 {
 
     public static void main (String[] args) {
 
