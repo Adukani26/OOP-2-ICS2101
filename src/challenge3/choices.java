@@ -2,7 +2,7 @@ package challenge3;
 
 import java.util.Scanner;
 
-public class Choices {
+public class choices {
     public static void main(String[] args) {
 
        System.out.println("Enter the day of the week: ");
