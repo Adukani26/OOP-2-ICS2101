@@ -11,7 +11,7 @@ public class input {
         int age = sc.nextInt();
 
         if (age < 18) {
-            System.out.println("You are a child! Cannot receive an ID");
+            System.out.println("You are a below 18! Cannot receive an ID");
         }
         else if(age>120 || age<=0) {
             System.out.println("Invalid age! Please try again");
