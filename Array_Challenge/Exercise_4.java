@@ -2,7 +2,7 @@ package Array_Challenge;
 
 import java.util.Arrays;
 
-public class Exercise4 {
+public class Exercise_4 {
 
     public static void main (String[] args) {
 
