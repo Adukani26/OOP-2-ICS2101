@@ -1,11 +1,11 @@
 package challenge1;
 
-public class Greeter {
+public class greeter {
     void greet(){
         System.out.println("Hi there");
     }
     public static void main(String[] args) {
 
-        new Greeter().greet();
+        new greeter().greet();
     }
 }
